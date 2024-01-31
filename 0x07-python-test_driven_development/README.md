@@ -1,8 +1,3 @@
-ALX - ALX High Level Programming
-===========================
-     Python Testdriven development practicing doc testing and unit test
-==================================================================================
+ALX - ALX High Level Programming=
 
 Test driven developement with python programming language
-
-##################################################################################
